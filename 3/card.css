@@ -1,0 +1,35 @@
+.card{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 14px;
+    width: 260px;
+}
+.card-img{
+    width: 100%;
+
+}
+.card-header{
+    position: relative;
+}
+.best{
+    /* position: absolute; */
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+    background-color: rgb(255, 246, 233);
+    color: rgb(88, 51, 0);
+    font-size: 14px;
+    padding: 2px 10px;
+    border-radius: 20px;
+}
+.off{
+    /* position: absolute; */
+    bottom: 0;
+    margin: 10px;
+    background-color: rgb(0, 128, 255);
+    color: white;
+    font-size: 14px;
+    padding: 2px 10px;
+    border-radius: 20px;
+}

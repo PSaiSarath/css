@@ -1,0 +1,58 @@
+.card{
+    width: 200px;
+    margin: 10px auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 0;
+}
+.card-img{
+
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0;
+}
+.padding{
+    padding: 5px;
+}
+/* .btn-1{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    height: 30px;
+    width: 70px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+.btn-2{
+position: sticky;
+  top: 0px;
+  height: 30px;
+  width: 70px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 15px;
+}
+.sticky{
+    position: sticky;
+    top: 0px;
+} */
+.head{
+    position: relative;
+}
+.abs{
+    position: absolute;
+    bottom:0;
+    color: green;
+    background-color: yellow;
+    border-radius: 10px;
+    margin: 10px;
+    padding:  3px 10px ;
+}
